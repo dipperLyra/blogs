@@ -14,4 +14,4 @@ Github Repo: [https://github.com/dipperLyra/tiny-pasteboard-manager](https://git
 
 This tiny app has banished my fear of overriding the paste board.
 
-Image: [Paste board manager in use](../resources/paste_mgr.png)
+Image: ![alt Paste board manager in use](../resources/paste_mgr.png)
