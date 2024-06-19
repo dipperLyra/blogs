@@ -6,7 +6,7 @@ Hello! I am Eche. This is the home for all my findings on how computers work at 
 
 ### [Writing a quick paste manager for MacOs](./posts/pasteboard-mgr.md)
 
-Most personal software on my computer are CLI tools but I needed a GUI tool to help me manage paste board history. The lack of a proper paste board manager on MacOs can be frustrating. Whatever latest thing copied replaces the pasteboard content and there is no way to get previously copied texts. Not long ago my friends and I were complaining about it but yesterday I decided I had been frustrated enough to suspend everything and do a dirty fix.
+Most personal software on my computer are CLI tools but I needed a GUI tool to help me manage pasteboard history. The lack of a proper pasteboard manager on MacOs can be frustrating. Whatever latest thing copied replaces the pasteboard content and there is no way to get previously copied texts. Not long ago my friends and I were complaining about it but yesterday I decided I had been frustrated enough to suspend everything and do a dirty fix.
 
 *Published on 19th June 2024. Last edited on 19th June 2024.*
 
