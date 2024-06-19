@@ -11,3 +11,7 @@ The data is all in memory, therefore no deletion for now, shutting down the app 
 The source code and the app archive (.app file) is hosted on Github until the Apple tax can be paid ;) If you come across this post and have any pointers to how I can enter MacOs underground club - those writing signed apps without paying any tax - please let me know.
 
 Github Repo: [https://github.com/dipperLyra/tiny-pasteboard-manager](https://github.com/dipperLyra/tiny-pasteboard-manager)
+
+This tiny app has banished my fear of overriding the paste board.
+
+Image: [Paste board manager in use](../resources/paste_mgr.png)
