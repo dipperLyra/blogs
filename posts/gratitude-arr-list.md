@@ -2,7 +2,7 @@
 
 Beautiful in thy manifestations. Even though thou art many yet thou art simple.
 
-Thee, Array, gave us the ability to fetch any data within thy bossom in constant time, we should only but speak the true name, the index, and we shall have it.
+Thee, Array, gave us the ability to fetch any data within thy bosom in constant time, we should only but speak the true name, the index, and we shall have it.
 
 What would devour treasuries of memories and time with Arrays, arbitrary growth, LinkedList maketh easy.
 

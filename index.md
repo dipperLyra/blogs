@@ -8,7 +8,7 @@ Hello! I am Eche. This is the home for all my findings on how computers work at 
 
 Beautiful in thy manifestations. Even though thou art many yet thou art simple.
 
-Thee, Array, gave us the ability to fetch any data within thy bossom in constant time, we should only but speak the true name, the index, and we shall have it.
+Thee, Array, gave us the ability to fetch any data within thy bosom in constant time, we should only but speak the true name, the index, and we shall have it.
 
 *Published on 19th June 2024. Last edited on 19th June 2024.*
 
