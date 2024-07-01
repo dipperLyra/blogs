@@ -4,6 +4,12 @@ Hello! I am Eche. This is the home for all my findings on how computers work at 
 
 ## Recent posts
 
+### [IntelliJ 2024 Frequent Crashes](./posts/intellij-crashes.md)
+
+I have witnessed more crashes in the few months after updating IntelliJ to 2024 than I ever saw in all the years I have used it put together.
+
+*Published on 1st July 2024. Last edited on 1st July 2024.*
+
 ### [Writing a quick paste manager for MacOs](./posts/pasteboard-mgr.md)
 
 Most personal software on my computer are CLI tools but I needed a GUI tool to help me manage pasteboard history. The lack of a proper pasteboard manager on MacOs can be frustrating. Whatever latest thing copied replaces the pasteboard content and there is no way to get previously copied texts. Not long ago my friends and I were complaining about it but yesterday I decided I had been frustrated enough to suspend everything and do a dirty fix.
