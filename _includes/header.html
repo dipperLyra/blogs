@@ -1,3 +1,4 @@
-<header class="site-header">
-  <h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
-</header>
+  <header class="inner">
+    <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  </header>
