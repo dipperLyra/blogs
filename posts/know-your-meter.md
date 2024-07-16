@@ -40,4 +40,4 @@ If you are interested in the puzzle part mentioned in the beginning, consider br
 - Checksum
 - Encryption Key
 
-Enjoy breaking the puzzle :)
+Enjoy cracking the puzzle :)
