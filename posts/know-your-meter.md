@@ -1,3 +1,8 @@
+---
+usemathjax: true
+title: Know Your Meter (KYM)
+---
+
 # Know Your Meter (KYM)
 
 If you love puzzles, there is a giant puzzle machine in your house, your prepaid electric meter :)
