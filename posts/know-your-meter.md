@@ -24,6 +24,8 @@ Why is the maximum 31years and how do we know that? There is nothing special abo
 
 The TID uses a 24-bit counter, therefore, computing the max number of minutes that can be counted by the 24-bit counter and converting that to years will give us the answer.
 
+Maximum count of this counter is: \( 2^{24} = 16,777,216 \) ∴ it can count up to 16,777,216 minutes.
+
 Maximum count of this counter is: \( 2^{24} = 16,777,216 \) ∴ it can count upto 16,777,216 minutes.
 
 #### Converting 16,777,216 minutes to years
