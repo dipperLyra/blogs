@@ -39,7 +39,7 @@ Years in 16,777,216 minutes: $\Rightarrow \frac{16,777,216}{525,600} = 31.9 \tex
 
 Taking floor, $ \Rightarrow \lfloor 31.9 \rfloor = 31 $ years
 
-### Summmary
+### Summary
 
 In summary we are updating our meters because the counter inside has reached its maximum number. Of course, the energy companies might take advantage of this process to update other details stored in the meter firmware.
 
