@@ -9,6 +9,8 @@ If you love puzzles, there is a giant puzzle machine in your house, your prepaid
 
 $a^2 + b^2 = c^2$
 
+$a^n$
+
 Until yesterday, I never saw this machine as a puzzle machine that it is. When things just work, you tend not to think about them. Yesterday, for the first time, the prepaid electric meter failed to just work. Typically you would purchase a token and the only struggle would be to use the clumsy old keyboard to input the token digits. I did that several times, painstakingly entering the correct digits over and over again but no unit would reflect on the dull LCD screen. It would show some sign of loading and afterwards display zero (0).
 
 I reached out to some friends, they said I should read up on KCT (Key Change Token). The energy company of Abuja has a [webpage](https://www.abujaelectricity.com/about-tid-rollover/) on what to do but I could not find the technical details I wanted. They mentioned something about TID rollover: _TID Rollover is the process of updating such meters to enable them continue to function seamlessly_.
@@ -36,6 +38,8 @@ Maximum count of this counter is: \( 2^{24} = 16,777,216 \) ∴ it can count up 
 Maximum count of this counter is: \( 2^{24} = 16,777,216 \) ∴ it can count upto 16,777,216 minutes.
 
 #### Converting 16,777,216 minutes to years
+
+Minutes in 1 year: $365 \times 24 \times 60 = 525,600 \text{ minutes/year}$
 
 Minutes in 1 year: \( 365 \times 24 \times 60 = 525,600 \text{ minutes/year} \)
 
