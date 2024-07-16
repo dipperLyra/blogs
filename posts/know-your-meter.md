@@ -32,9 +32,9 @@ Maximum count of this counter is: \( 2^{24} = 16,777,216 \) ∴ it can count upt
 
 Minutes in 1 year: \( 365 \times 24 \times 60 = 525,600 \text{ minutes/year} \)
 
-Years in 16,777,216 minutes: \( \Rightarrow \frac{16,777,216}{525,600} = 31.9 \text{ years.} \)
+Years in 16,777,216 minutes: <span> \( \Rightarrow \frac{16,777,216}{525,600} = 31.9 \text{ years.} \) </span>
 
-Taking floor,  \( \Rightarrow \lfloor 31.9 \rfloor = 31 \) years
+Taking floor, <span>\( \Rightarrow \lfloor 31.9 \rfloor = 31 \)</span> years
 
 
 ### Summmary
