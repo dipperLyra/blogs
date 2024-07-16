@@ -2,6 +2,14 @@ Hello! I am Eche. This is the home for all my findings on how computers work at 
 
 ## Recent posts
 
+### [Know Your Meter (KYM)](./posts/know-your-meter.md)
+
+If you love puzzles, there is a giant puzzle machine in your house, your prepaid electric meter :)
+
+Until yesterday, I never saw this machine as a puzzle machine that it is. When things just work, you tend not to think about them. Yesterday, for the first time, the prepaid electric meter failed to just work. Typically you would purchase a token and the only struggle would be to use the clumsy old keyboard to input the token digits. I did that several times, painstakingly entering the correct digits over and over again but no unit would reflect on the dull LCD screen. It would show some sign of loading and afterwards display zero (0).
+
+*Published on 16th July 2024. Last edited on 16th July 2024.*
+
 ### [IntelliJ 2024 Frequent Crashes](./posts/intellij-crashes.md)
 
 I have witnessed more crashes in the few months after updating IntelliJ to 2024 than I ever saw in all the years I have used it put together.
