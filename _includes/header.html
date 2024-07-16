@@ -1,6 +1,16 @@
-  <header class="inner">
-    <h1 id="project_title">
-      <a href="/">{{ site.title | default: site.github.repository_name }}</a>
-    </h1>
-    <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-  </header>
+<header class="inner">
+  <h1 id="project_title">
+    <a href="/">{{ site.title | default: site.github.repository_name }}</a>
+  </h1>
+  <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+</header>
+
+<!-- for mathjax support -->
+{% if page.usemathjax %}
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
+    });
+  </script>
+  <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
