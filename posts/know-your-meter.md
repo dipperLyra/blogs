@@ -24,14 +24,35 @@ Why is the maximum 31years and how do we know that? There is nothing special abo
 
 The TID uses a 24-bit counter, therefore, computing the max number of minutes that can be counted by the 24-bit counter and converting that to years will give us the answer.
 
-Maximum count of a counter is: 2 raised to the power of the number of bits, i.e 2^24 = 16,777,216 ∴ the counter can count upto 16,777,216 minutes.
+Maximum count of a counter is: 2 raised to the power of the number of bits,
+
+```Latex
+$$
+2^{24} = 16,777,216
+$$
+```
+
+∴ the counter can count upto 16,777,216 minutes.
 
 Converting 16,777,216 minutes to years:
 
-Number of minutes in 1 year, 365 * 24 * 60 = 525 600 minutes/year
-Number of years in 16,777,216 minutes => 16777216 / 525600 = 31.9 years.
+Number of minutes in 1 year
 
-Take floor => floor (31.9) = 31 years.
+```Latex
+$$
+365 \times 24 \times 60 = 525,600 \text{ minutes/year}
+$$
+```
+
+```Latex
+$$
+Number of years in 16,777,216 minutes \( \Rightarrow \frac{16,777,216}{525,600} = 31.9 \text{ years.} \)
+$$
+
+```Latex
+$$
+Take floor \( \Rightarrow \lfloor 31.9 \rfloor = 31 \) years.
+$$
 
 In summary we are updating our meters because the counter inside has reached its maximum number. Of course, the energy companies might take advantage of this process to update other details stored in the meter firmware.
 
