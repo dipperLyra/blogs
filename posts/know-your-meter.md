@@ -1,11 +1,13 @@
 ---
-usemathjax: true
+mathjax: true
 title: Know Your Meter (KYM)
 ---
 
 # Know Your Meter (KYM)
 
 If you love puzzles, there is a giant puzzle machine in your house, your prepaid electric meter :)
+
+$a^2 + b^2 = c^2$
 
 Until yesterday, I never saw this machine as a puzzle machine that it is. When things just work, you tend not to think about them. Yesterday, for the first time, the prepaid electric meter failed to just work. Typically you would purchase a token and the only struggle would be to use the clumsy old keyboard to input the token digits. I did that several times, painstakingly entering the correct digits over and over again but no unit would reflect on the dull LCD screen. It would show some sign of loading and afterwards display zero (0).
 

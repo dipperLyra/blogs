@@ -16,6 +16,9 @@ layout: default
   <body>
     <div id="header_wrap" class="outer">
         {% include header.html %}
+        {% if page.mathjax %}
+          {% include mathjax.html %}
+        {% endif %}
     </div>
 
     <!-- MAIN CONTENT -->
