@@ -4,7 +4,7 @@ title: Use App-Based Authenticator and Avoid SMS Authenticator When Available
 
 # Use App-Based Authenticator, Avoid SMS OTP When Available
 
-The technology used for common network communication (e.g. calls and text) is not end-to-end encrypted. Therefore, the operators can have records of your calls and activities. This on its own is not very worrisome but knowing the security implications can be.
+The technology used for common network communication (calls and text messages) not being end-to-end encrypted means that the Network Operator can record calls and other activities. That can be worrisome but there are scarier things happening deep within the cellular network stack that can drive one crazy.
 
 I have an anecdote that has led me to start digging into phone network architectures. My mum tried calling me recently but an unknown lady picked the call. Since my mum couldn't reconcile the voice calling her "mummy" with mine, she cut the call. Later, on the same day, I tried calling my mum and a guy that sounded like a drunk picked the phone, we had a brief conversation. I asked him where the owner of the phone was and other very short questions, he parried all. Freaked out, I called my sis immediately who retried my mum's number and got through, that is, my mum picked the phone.
 
