@@ -24,7 +24,13 @@ I am still grappling with a lot of new information but for now I would keep to t
 ## Key words for further reading
 
 2FA: Two Factor Authentication
+
 App-based authenticators: Google Authenticator, Duo Mobile, etc.
+
 SS7: Signaling System No. 7
+
 What is SS7 Attack and how does it work: [link](https://www.reddit.com/r/AskNetsec/comments/s0t5za/what_is_an_ss7_attack_and_how_does_it_work/)
+
 Cellular Network: [Telecom network](https://en.wikipedia.org/wiki/Cellular_network)
+
+SIM swap hackers
