@@ -14,7 +14,7 @@ What happened at first? I don't know, I was terribly confused. I suspected MTN (
 
 Summary of the video is that phone networks are not very secure. In fact, it is relatively easy to fake that you are a telco and get information from another telco about their users.  If you purchase an [SS7](https://en.wikipedia.org/wiki/Signalling_System_No._7) (Signaling System No. 7) license or know a shady SS7 license owner you can do a lot. One being, taking or hijacking calls and text messages meant for another person without the person ever knowing. Cell tower triangulation is pretty accurate for tracking people. Many security companies own this license and we assume that they are all good actors :) Something tells me that if you look closely there would be willing dealers on Telegram and Darkweb selling access to this protocol.
 
-I am still grappling with a lot of new information but for now I would keep to these and advise to do the same:
+I am still grappling with a lot of new information but for now I would keep to these and advise others to do the same:
 
 - Check all email account settings, use app-based authentication or (device) push notification for 2FA. Email is the one ring that rules our digital security. If it is cracked, almost nothings else can hold.
 - Always use app-based authentication for 2FA where possible. Avoid SMS 2FA whenever possible.

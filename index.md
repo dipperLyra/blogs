@@ -6,7 +6,7 @@ Hello! I am Eche, a Backend Engineer at Moniepoint. Welcome to my blog. This is 
 
 The technology used for common network communication (e.g. calls and text) is not end-to-end encrypted. Therefore, the operators can have records of your calls and activities. This on its own is not very worrisome but knowing the security implications can be.
 
-*Published on 19th October 2024. Last edited on 19th October 2024.*
+*Published on 20th October 2024. Last edited on 20th October 2024.*
 
 ### [Know Your Meter (KYM)](./posts/know-your-meter.md)
 
