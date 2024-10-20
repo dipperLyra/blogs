@@ -1,4 +1,4 @@
-Hello! I am Eche. This is the home for all my findings on how computers work at all levels. I mostly write applications running in virtual machines (JVM, v8, etc.) but during my unpaid hours I roam around the compiled land (Rust, C, etc.).
+Hello! I am Eche, a Backend Engineer at Moniepoint. Welcome to my blog. This is the home for all my findings on everything computer and network related.
 
 ## Recent posts
 
