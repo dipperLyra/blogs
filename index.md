@@ -2,6 +2,12 @@ Hello! I am Eche. This is the home for all my findings on how computers work at 
 
 ## Recent posts
 
+### [Use App-Based Authenticator, Avoid SMS Authenticator When Available](./posts/app-based-authenticator.md)
+
+The technology used for common network communication (e.g. calls and text) is not end-to-end encrypted. Therefore, the operators can have records of your calls and activities. This on its own is not very worrisome but knowing the security implications can be.
+
+*Published on 19th October 2024. Last edited on 19th October 2024.*
+
 ### [Know Your Meter (KYM)](./posts/know-your-meter.md)
 
 If you love puzzles, there is a giant puzzle machine in your house, your prepaid electric meter :)
