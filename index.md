@@ -1,4 +1,4 @@
-# Hello! I am Eche
+# Hello!
 
 A Backend Engineer at Moniepoint. Welcome to my blog. This is the home for all my findings on everything computer and network related.
 
