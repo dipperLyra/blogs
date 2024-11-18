@@ -1,6 +1,12 @@
-Hello! I am Eche, a Backend Engineer at Moniepoint. Welcome to my blog. This is the home for all my findings on everything computer and network related.
+# Hello! I am Eche
 
-## Recent posts
+A Backend Engineer at Moniepoint. Welcome to my blog. This is the home for all my findings on everything computer and network related.
+
+## Posts
+
+### [UA Billion Loop Iterations in Java, Js, Go and Python](./posts/one-billion-iterations.md)
+
+I saw this thread on twitter where a guy tested the speed of 1 billion loop iterations in these four languages: JavaScript, Python, Go and C.
 
 ### [Use App-Based Authenticator, Avoid SMS Authenticator When Available](./posts/app-based-authenticator.md)
 
@@ -33,8 +39,6 @@ Beautiful in thy manifestations. Even though thou art many yet thou art simple.
 Thee, Array, gave us the ability to fetch any data within thy bosom in constant time, we should only but speak the true name, the index, and we shall have it.
 
 *Published on 19th June 2024. Last edited on 19th June 2024.*
-
-## Top posts
 
 ### [A Networking Date](./posts/netcat.md)
 
