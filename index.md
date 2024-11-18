@@ -4,7 +4,7 @@ A Backend Engineer at Moniepoint. Welcome to my blog. This is the home for all m
 
 ## Posts
 
-### [UA Billion Loop Iterations in Java, Js, Go and Python](./posts/one-billion-iterations.md)
+### [A Billion Loop Iterations in Java, Js, Go and Python](./posts/one-billion-iterations.md)
 
 I saw this thread on twitter where a guy tested the speed of 1 billion loop iterations in these four languages: JavaScript, Python, Go and C.
 

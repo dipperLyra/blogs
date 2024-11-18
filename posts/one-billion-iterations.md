@@ -16,6 +16,7 @@ The author did not include Java so I did and ran the [benchmark](https://benjdd.
 
 ![hardware-spec](../resources/hardware_spec.png)
 
+Software versions:
 Java (OpenJDK 23.0.1)
 JavaScript (Node 23.2.0)
 Go (go1.23.3)
