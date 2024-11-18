@@ -15,5 +15,5 @@ defaults:
   - scope:
       path: ""
     values:
-      description: "Explore articles and tutorials about tech and digital interests."
-      image: "/resources/wireshark.png"
+      description: "Explore articles about my digital interests."
+      image: "/resources/work_setup.jpg"
